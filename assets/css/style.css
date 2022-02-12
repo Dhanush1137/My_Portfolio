@@ -198,7 +198,7 @@ h1, h2, h3, h4, h5, h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background: url("https://source.unsplash.com/random") top center;
+  background: URL("https://source.unsplash.com/random/900×700/?html") top center;
   background-size: cover;
 }
 #hero:before {
